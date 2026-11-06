@@ -1,0 +1,17 @@
+{
+  "date": "2026-11-06",
+  "android": "14/API34",
+  "abi": "arm64-v8a",
+  "gpu_mode": "guest",
+  "base_image": "redroid/redroid@sha256:0a611199ba2e0b5d60af39b3327a517f6407231f4352114ed3bd3cbfe2be69aa",
+  "base_allocator_sha256": "e6bcdbb5884e77830c305770a91d95c8c3426c1880f8f9a75d954ff856949622",
+  "nitro_commit": "12c810f4be75839dff1730f2a24a9f14ddd8e5fb",
+  "nitro_apk_sha256": "2e31dea85e0002133623a20ec04590c648594bbb26943a151d59250386e26d5d",
+  "nitro_suites_passed": 18,
+  "nitro_tests_passed": 1418,
+  "nitro_tests_failed": 0,
+  "nitro_tests_skipped": 6,
+  "nitro_test_names_and_statuses_sha256": "4f2c38fd6a2f61865bdf0ed9bdaa29f84a2ee00378d476b2b5eac2b184033eb9",
+  "matches_original_emulator_test_names_and_statuses": true,
+  "graphics_smoke_check": "Android launcher rendered; screenshot captured after full suite"
+}

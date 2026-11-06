@@ -1,0 +1,7 @@
+PASS Java BLOB width=1
+PASS Java BLOB width=3
+PASS Java BLOB width=4095
+PASS Java BLOB width=4096
+PASS Java BLOB width=4097
+PASS Java BLOB width=12345
+failures=0

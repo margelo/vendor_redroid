@@ -1,0 +1,10 @@
+PASS format=33 width=1 height=1
+PASS format=33 width=3 height=1
+PASS format=33 width=4095 height=1
+PASS format=33 width=4096 height=1
+PASS format=33 width=4097 height=1
+PASS format=33 width=12345 height=1
+PASS format=4 width=17 height=9
+PASS format=1 width=17 height=9
+PASS format=22 width=17 height=9
+failures=0

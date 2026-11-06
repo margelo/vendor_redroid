@@ -1,0 +1,7 @@
+FAIL Java BLOB width=1: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+FAIL Java BLOB width=3: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+FAIL Java BLOB width=4095: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+FAIL Java BLOB width=4096: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+FAIL Java BLOB width=4097: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+FAIL Java BLOB width=12345: java.lang.IllegalArgumentException: Unable to create a HardwareBuffer, either the dimensions passed were too large, too many image layers were requested, or an invalid set of usage flags or invalid format was passed
+failures=6

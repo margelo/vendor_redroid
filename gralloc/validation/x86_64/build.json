@@ -1,0 +1,23 @@
+{
+  "abi": "x86_64",
+  "api": 34,
+  "compiler": "Android (12470979, +pgo, -bolt, +lto, -mlgo, based on r522817c) clang version 18.0.3 (https://android.googlesource.com/toolchain/llvm-project d8003a456d14a3deb8054cdaa529ffbf02d9b262)",
+  "headers": {
+    "libhardware": "32748ddb39cf99296ff35d374b15f04b4522e85c",
+    "core": "b8e07c25c4190f4338a6ce0394497925128d2609",
+    "logging": "0d18f57987b1dbf3494ca7d2b13645eac002d3cd"
+  },
+  "sources": {
+    "gralloc.cpp": "470fdb0d9cfc6af8faafe262c8204775b1105ef73a3802834343ec33cdadb4b3",
+    "mapper.cpp": "c58d6d2cd094edab6dce4c03c7278df33c94566e349b351ea6457b19c55b847e",
+    "framebuffer.cpp": "caf1ed96b5f1f4f68511c4d4f8792c41ac2b2aabddefb170210aaaeb76804f4a",
+    "gr.h": "d63ec71bc4f2b9ad34ea33515a2e56ddb2898b07b4e28d46f883c3ac5d431795",
+    "gralloc_priv.h": "41072abce5bbd23438e3f779b6e59e1aa2fc9bd215e971cb6e44e4aab33cca7c"
+  },
+  "runtime_libraries": {
+    "libcutils.so": "b9fdee912ccb1cb77e953bad18164dcdf703ca23a1bbdc694e8a03f14af80b1a",
+    "libc++.so": "00814366e477ef97a64cf785d9ef3e06e4f76223bd68b00d9edfb00e77d85f89"
+  },
+  "allocator_sha256": "51225a325d1c899990d8d64f5af2b20f81a4ea11886279ae1fd25e171b32a7c8",
+  "probe_sha256": "e6cb7928783c9dff5f937143b411a6416a557af9612307d298aad7598c65a28f"
+}

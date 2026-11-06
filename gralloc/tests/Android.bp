@@ -1,0 +1,8 @@
+cc_binary {
+    name: "redroid_hardware_buffer_test",
+    srcs: ["hardware_buffer_test.cpp"],
+    sdk_version: "29",
+    stl: "libc++_static",
+    shared_libs: ["libandroid"],
+    cflags: ["-Wall", "-Werror"],
+}
